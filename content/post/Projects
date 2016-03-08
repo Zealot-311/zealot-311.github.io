@@ -1,0 +1,9 @@
++++
+url = "/post/projects"
+title = "Projects"
+date = "2016-03-08"
+tags = ["list"]
+categories = [posts]
+image = "img/projects.jpg"
++++
+hi
